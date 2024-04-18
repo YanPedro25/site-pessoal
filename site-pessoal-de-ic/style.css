@@ -1,0 +1,30 @@
+@font-face {
+  font-family: PoppinsRegular;
+  src: url(fonts/Poppins-Regular.ttf);
+ }
+
+
+button { 
+  background-color: black;
+  color:azure
+
+}
+button {
+  border: none;
+  height: 36px;
+  cursor: pointer;
+  transition: box-shadow 0.15s
+  
+
+   }
+
+   
+
+  
+
+
+
+
+
+
+
